@@ -78,7 +78,7 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <StyledHeading as="h1" size="xl" mb="24px" color="primary1">
-          GRAVITY<SmallHeading>ETH</SmallHeading>
+          UP<SmallHeading>ETH</SmallHeading>
         </StyledHeading>
         <Text color="primary1">{/* {TranslateString(578, 'Top 3 best DEFI app on Binance Smart Chain.')} */}</Text>
       </Hero>
